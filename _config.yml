@@ -1,0 +1,24 @@
+name: 'Sari Muda '
+layout_spectrum: 0.1878851238293635
+typography_spectrum: 0.290791052343643
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.7055305722301477
+  lightness: 0.9635219706319259
+  saturation: 0.9841507523385497
+  rhythmicContrast: 0.7066670880080923
+title: 'Simply Tech Blog '
+author:
+  name: 'Sari Muda '
+  url: 'www.genmuda.com '
+  email: sarimuda@genmuda.com
+content_rating:
+  adult: false

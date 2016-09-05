@@ -1,21 +1,24 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
-title: Minimum HTML5 Document
-dateModified: '2016-09-02T02:20:14.710Z'
+title: 'Apa itu HTML5 ? '
+datePublished: '2016-09-02T03:16:11.136Z'
+dateModified: '2016-09-02T03:16:09.341Z'
 publisher: {}
 author: []
 inFeed: true
-description: Apa itu HTML 5?
+description: >-
+  HTML5 adalah sebuah bahasa markah untuk menstrukturkan dan menampilkan isi
+  dari World Wide Web (WWW atau W3, yang biasa disebut the Web), sebuah
+  teknologi inti dari Internet. HTML5 adalah revisi kelima dari HTML (yang
+  pertama kali diciptakan pada tahun 1990
 via: {}
-datePublished: '2016-09-02T02:20:22.392Z'
 starred: false
 sourcePath: _posts/2016-09-02-minimum-html5-document.md
 _type: Blurb
 
 ---
-Apa itu HTML 5?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd22e647-5549-480b-a585-a4f419f58305.png)
+## Apa itu HTML5 ? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd22e647-5549-480b-a585-a4f419f58305.png)
 
 HTML5 adalah sebuah bahasa markah untuk menstrukturkan dan menampilkan isi dari World Wide Web (WWW atau W3, yang biasa disebut the Web), sebuah teknologi inti dari Internet. HTML5 adalah revisi kelima dari HTML (yang pertama kali diciptakan pada tahun 1990
 
@@ -30,8 +33,6 @@ Diharapkan nantinya, HTML5 akan dapat mengganti HTML4 secara keseluruhan yang hi
 * HTML5 should be device independent
 * The development process should be visible to the public
 
-## Minimum HTML5 Document
-
 Berikut merupakan contoh script HTML5 yang simpel :
 
 <!DOCTYPE html\>  
@@ -44,8 +45,6 @@ _The content of the document......_
 </body\>  
 </html\>
 
-  
-  
 Apabila anda tertarik mengenai perkembangan HTML5, silahkan cek situs resminya [disini][0]
 
 [0]: http://www.whatwg.org/specs/web-apps/current-work/multipage/the-xhtml-syntax.html

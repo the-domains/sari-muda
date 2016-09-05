@@ -1,9 +1,9 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
-title: 'Apa itu HTML5 ? '
-datePublished: '2016-09-02T03:16:11.136Z'
-dateModified: '2016-09-02T03:16:09.341Z'
+title: Apa itu HTML5 ?
+datePublished: '2016-09-02T03:49:36.447Z'
+dateModified: '2016-09-02T03:49:33.665Z'
 publisher: {}
 author: []
 inFeed: true
@@ -18,7 +18,9 @@ sourcePath: _posts/2016-09-02-minimum-html5-document.md
 _type: Blurb
 
 ---
-## Apa itu HTML5 ? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd22e647-5549-480b-a585-a4f419f58305.png)
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eb4da90-4d38-4470-a4b7-927c9cfd1fac.jpg" /><h1>HTML5 </h1></article>
+
+## Apa itu HTML5 ?
 
 HTML5 adalah sebuah bahasa markah untuk menstrukturkan dan menampilkan isi dari World Wide Web (WWW atau W3, yang biasa disebut the Web), sebuah teknologi inti dari Internet. HTML5 adalah revisi kelima dari HTML (yang pertama kali diciptakan pada tahun 1990
 

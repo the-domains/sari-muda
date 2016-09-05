@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Simply Tech Blog ]]></title>
         <description><![CDATA[Simply Tech Blog ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sari-muda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:13:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 04:21:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sari-muda/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Perkenalkan iPad Pro, Smart keyboard, dan Apple Pencil]]></title>
+            <description><![CDATA[<article><h1>Apple Perkenalkan iPad Pro, Smart keyboard, dan Apple Pencil</h1><p>GenMuda - Mungkin anak muda sudah bosan banget mendengar rumor mengenai iPad yang mengadaptasi ukuran layar yang lebih besar. Akankah Apple benar-benar meluncurkan produk tersebut supaya iPad dapat bersaing dengan laptop yang terkenal akan produktivitasnya? Hari ini, Kamis Pagi (10/9/2015) atau Rabu malam waktu Amerika Serikat, Apple membuat rumor tersebut menjadi kenyataan, mari kita lihat apa keunggulan iPad Pro ini.</p><img src="http://www.genmuda.com/wp-content/uploads/2015/09/61.jpg"></article>]]></description>
+            <link>http://www.genmuda.com/apple-perkenalkan-ipad-pro-smart-keyboard-dan-apple-pencil/</link>
+            <guid isPermaLink="false">5000e6a0-7993-4685-90d7-792fa50576de</guid>
+            <pubDate>Fri, 02 Sep 2016 04:20:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kemampuan Terbaru iPhone 6s dan iPhone 6s plus]]></title>
             <description><![CDATA[<article><h1>Kemampuan Terbaru iPhone 6s dan iPhone 6s plus</h1><p>Genmuda - Seperti tahun kemarin, Rabu (9/9/2015) Apple kembali meluncurkan dua varian iPhone, yaitu iPhone 6s dan iPhone 6s plus. Kedua iPhone ini akan mendapatkan varian warna terbaru yaitu rosegold. Seperti rumor yang telah kita dengar sebelumnya, iPhone baru ini bakal dilengkapi dengan teknologi layar sentuh yang dapat mendeteksi daya tekan yang dinamai "3D Touch".</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2214362c2e929bf5e601461a42c28a19/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FrzmPHazcw0hxMR97Yf02Ss-YuZE%3D%2F0x69%3A1320x812%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F47143464%2Fapple-iphone-6s-live-_2160.0.0.jpg"></article>]]></description>

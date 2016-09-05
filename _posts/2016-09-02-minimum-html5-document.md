@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Apa itu HTML5 ?
-datePublished: '2016-09-02T03:49:36.447Z'
-dateModified: '2016-09-02T03:49:33.665Z'
+datePublished: '2016-09-02T04:32:09.233Z'
+dateModified: '2016-09-02T04:32:04.819Z'
 publisher: {}
 author: []
 inFeed: true

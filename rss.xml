@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Simply Tech Blog ]]></title>
+        <description><![CDATA[Simply Tech Blog ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 04:13:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kemampuan Terbaru iPhone 6s dan iPhone 6s plus]]></title>
+            <description><![CDATA[<article><h1>Kemampuan Terbaru iPhone 6s dan iPhone 6s plus</h1><p>Genmuda - Seperti tahun kemarin, Rabu (9/9/2015) Apple kembali meluncurkan dua varian iPhone, yaitu iPhone 6s dan iPhone 6s plus. Kedua iPhone ini akan mendapatkan varian warna terbaru yaitu rosegold. Seperti rumor yang telah kita dengar sebelumnya, iPhone baru ini bakal dilengkapi dengan teknologi layar sentuh yang dapat mendeteksi daya tekan yang dinamai "3D Touch".</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2214362c2e929bf5e601461a42c28a19/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FrzmPHazcw0hxMR97Yf02Ss-YuZE%3D%2F0x69%3A1320x812%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F47143464%2Fapple-iphone-6s-live-_2160.0.0.jpg"></article>]]></description>
+            <link>http://www.genmuda.com/kemampuan-terbaru-iphone-6s-dan-iphone-6s-plus/</link>
+            <guid isPermaLink="false">edd6cb0e-8150-408e-889f-6cf7b6434dbc</guid>
+            <pubDate>Fri, 02 Sep 2016 04:13:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

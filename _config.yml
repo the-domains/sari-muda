@@ -2,7 +2,7 @@ name: 'Sari Muda '
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eedf55e-456a-4262-a826-96114f825bb6.png
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7c92a4-3975-4f21-ac14-da53782e62a0.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d913b3f0-2729-4a15-80ae-917e82405f79.png
 layout_spectrum: 0.1878851238293635
 typography_spectrum: 0.290791052343643
 opengraph:
@@ -19,10 +19,10 @@ color:
   lightness: 0.9635219706319259
   saturation: 0.9841507523385497
   rhythmicContrast: 0.7066670880080923
-title: 'Simply Tech Blog '
+title: 'Because everything''s connected '
 author:
   name: 'Sari Muda '
-  url: 'www.genmuda.com '
+  url: www.genmuda.com
   email: sarimuda@genmuda.com
 content_rating:
   adult: false
